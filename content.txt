@@ -30,6 +30,32 @@ url(https://youtu.be/XnSasPR2KJI?si=er7ZYo9eWzRFkm-I)
 
 
 
+📝Note from your senior(This is to just tell this doesnt came from a one day knowledge n you all can trust on this btw personal prefrence can be different)
+
+For python - programming with mosh is my pick + more resource are available too
+
+For web dev- Angela yu,codesteel, dave gray, sherian, the odin project(documentation based)
+
+For cpp- you could go up with harry at start n then for advance topics go with documentation of w3school, programrizz, gfg(my pick), cpp reference(not for beginners , its for advance learners) or you can go with the course of love babbar of cpp(free on yt)+or striver(takeyouforward)
+
+For Js- code with chai, akshay saini, color code(my personal fav)++++++w3school doc
+
+N moreover the language you choose for dsa doesn't matter much whichever you feel good go with that language.
+
+I would recommend you all to go with either java or cpp(my fav).
+
+Ultimately you will have to learn multiple languages but you have to be master of one n in others you can be okay okay.
+
+If someone is complete beginner they can go with harry too, he has also providied the notes. Its just for getting started. Keep in mind no one will teach you all so the combination of videos and docs will be go through. N each day of your coding journey u will find something new. So just adapt with it.
+
+If you are absolute beginner start with a language n master its fundamentals.
+
+It would be a piece of cake if you master in one language to learn any other language afterwards.
+
+
+
+
+
 
 
 
